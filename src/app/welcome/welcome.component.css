@@ -1,0 +1,69 @@
+.example-spacer {
+
+    flex: 1 1 auto;
+
+  }
+
+  :host {
+
+    display: block;
+
+  }
+
+  .navbar{
+
+   
+
+     
+
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+        /* text-align: center; */
+
+        /* position: fixed; */
+
+        /* top: 0;
+
+        left: 0; */
+
+        /* width: 100%; */
+
+        /* z-index: 1000; */
+
+  }
+
+  /* body{
+
+    font-family: Roboto,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+
+  } */
+
+  .example-container {
+
+    position: absolute;
+
+    top: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    right: 0;
+
+    background: #eee;
+
+  }
+
+ .mat-sidenav-container{
+
+  height: calc(505vh - 450vh);
+
+ }
+
+ .mat-sidenav{
+
+  width:200px;
+
+  /* background-color: #3B71CA; */
+
+ }
